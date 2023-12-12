@@ -11,6 +11,8 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 ## GL-Runen （ルーン文字）
 
+<img src="https://github.com/Gutenberg-Labo/GL-Runen/blob/main/documents/GL-Runen.svg" width="95%" alt="GL-Runen - Open Source Font" />
+
 Runic font.  
 There are the 24 Elder Futhark runes, and supports the Unicode runic range U+16A0 to U+16F8.
 
