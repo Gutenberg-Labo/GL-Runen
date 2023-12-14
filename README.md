@@ -17,5 +17,5 @@ Runic font.
 There are the 24 Elder Futhark runes, and supports the Unicode runic range U+16A0 to U+16F8.
 
 ルーン文字のフォントです。  
-アルファベット領域には、ゲルマン共通ルーン24文字がおおよそ対応する音価のアルファベットへ割り当てられています（例外がありますので詳しくはReadMeをご覧ください）。  
+アルファベット領域には、ゲルマン共通ルーン24文字がおおよそ対応する音価のアルファベットへ割り当てられています（例外がありますので詳しくは[ReadMe](https://github.com/Gutenberg-Labo/GL-Runen/blob/main/documents/GL-Runen-readme.txt)をご覧ください）。  
 ユニコードのルーン文字領域（U+16A0～U+16F8）に該当グリフが入っています。
